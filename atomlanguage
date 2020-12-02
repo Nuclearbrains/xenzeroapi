@@ -1,0 +1,5 @@
+end create new class(setupatom)
+import<atom.virtualmachine.console>
+<command>setup in dir($"/bin/Atom")</command>
+<command>setup cache createfolder dir($system32"/AtomVirtualMachine/")<command>
+end app
